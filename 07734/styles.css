@@ -1,0 +1,126 @@
+
+body
+{
+	background-color:#F2F2F2;
+	font-family: "Arial", sans-serif;
+}
+
+#topBar
+{
+	height:28px;
+	color:white;
+	background-color:#424242;
+}
+
+#logo
+{
+	margin-top:3px;
+	margin-left:4px;
+	padding-left:2px;
+	padding-right:2px;
+	border:2px solid white;
+	float:left;
+}
+
+#topBar li
+{
+	margin-top:4px;
+	padding-left:4px;
+	list-style:none;
+	float:left;
+}
+
+.borderRight
+{
+	border-right:1px solid white;
+	padding-right:4px;
+}
+
+#content
+{
+	color:#151515;
+}
+
+#bigBar
+{
+	padding-top:2px;
+}
+
+#bigBarPic
+{
+	background-image:url("images/myWebPics1.jpg");
+	width:50%;
+	height:235px;
+	float:left;
+	border-right:2px solid #F2F2F2;	
+}
+
+.bgSettings
+{
+	background-size:cover;
+}
+
+#bigBarText
+{
+	padding-left:8px;
+}
+
+#bigBarTitle
+{
+	font-size:180%;
+	font-weight:bold;
+}
+
+.clearFloat
+{
+	clear:left;
+}
+
+#divider
+{
+	margin-top:5px;
+	margin-bottom:4px;
+	height:3px;
+	border-top:1px solid #424242;
+	border-bottom:1px solid #424242;
+}
+
+.padRight
+{
+	padding-right:2px;
+}
+
+.littleBar
+{
+	border-top:2px solid #F2F2F2;
+	float:left;
+	width:33%;
+}
+
+.littleBarPic
+{
+	height:100px;
+}
+
+#lbp1
+{
+	background-image:url("images/myWebPics2.jpg");
+}
+
+#lbp2
+{
+	background-image:url("images/myWebPics3.jpg");
+}
+
+#lbp3
+{
+	background-image:url("images/myWebPics4.jpg");
+}
+
+.littleBarTitle
+{
+	font-size:125%;
+	font-weight:bold;
+}
+
+
